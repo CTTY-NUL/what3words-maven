@@ -12,7 +12,7 @@ public class Main {
         What3WordsV3 api = new What3WordsV3("V8UG7ICS");
 
         ConvertTo3WA words = api.convertTo3wa(new Coordinates(51.508344, -0.12549900))
-                .language("en")
+                .language("nl")
                 .execute();
         System.out.println("Words: " + words);
     }
