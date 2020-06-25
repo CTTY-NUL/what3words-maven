@@ -12,3 +12,6 @@ file - project structure - modules - dependencies en dan had ik w3w-java-wrapper
 npm install --save what3words
 
 Eigenlijk is dat dubbelop of driedubbelop, als ie al in de pom.xml staat zou ie niet nog eens als .JAR erbij hoeven vermoed ik....
+
+![Als je een dependency heb toegevoegd kan em hiermee inladen](dependency2.png)
+![Hiermee kan je alle dependencies inladen](dependency1.png)
